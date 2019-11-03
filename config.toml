@@ -10,8 +10,7 @@ theme = "minimal"
 
 [[menu.main]]
   name = "Home"
-  post = "<span class='alert'>Home</span>"
-  pre = "<i class='fa fa-road'></i>"
+  pre = "<img src='/img/cpr.jpg' style='height: 20px; width: 20px;' alt='cpr'>"
   url = "/"
   weight = 1
 
