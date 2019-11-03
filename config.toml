@@ -1,4 +1,4 @@
-baseURL = "http://responsereadyinc.ca/"
+baseURL = "https://responsereadyinc.github.io/"
 languageCode = "en-us"
 title = "Response Ready Inc."
 theme = "minimal"
