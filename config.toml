@@ -9,19 +9,26 @@ theme = "minimal"
   showBorder = true
 
 [[menu.main]]
+  name = "Home"
+  post = "<span class='alert'>Home</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
   url = "/courses/"
   name = "Courses"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   url = "/staff/"
   name = "Staff Portfolios"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   url = "/contact/"
   name = "Contact"
-  weight = 3
+  weight = 4
 
 [[menu.icon]]
     url = "mailto:responsereadyinc@outlook.com"
