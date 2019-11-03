@@ -4,12 +4,9 @@ title = "Response Ready / Intervention Rapide Inc."
 theme = "minimal"
 
 [params]
+  accent = "#c9201b"
   backgroundColor = "#eeeadf"
-
-[[menu.main]]
-  url = "/"
-  name = "About"
-  weight = 1
+  showBorder = true
 
 [[menu.main]]
   url = "/courses/"
@@ -19,12 +16,12 @@ theme = "minimal"
 [[menu.main]]
   url = "/staff/"
   name = "Staff Portfolios"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   url = "/contact/"
   name = "Contact"
-  weight = 1
+  weight = 3
 
 [[menu.icon]]
     url = "mailto:responsereadyinc@outlook.com"
