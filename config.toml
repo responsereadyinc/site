@@ -1,6 +1,7 @@
 baseURL = "https://responsereadyinc.github.io/"
 languageCode = "en-us"
 theme = "den"
+rssLimit = 20
 
 [languages]
   [languages.en]
@@ -11,7 +12,9 @@ theme = "den"
       alt = "Your example logo alt text"
 
 [params]
-  defaultTheme = "light"
+  logoTitle = "Response Ready"
+  siteLogoImage = "img/cpr.jpg"
+  headerImage = "img/backdrop.jpg"
 
 [[menu.main]]
   url = "/courses/"
