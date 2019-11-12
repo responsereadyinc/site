@@ -100,11 +100,10 @@ work with you in order to tailor our courses based on your needs.
 
 # Hemorrhage Control
 
-https://www.stopthebleed.org/
-https://deepwaterhappy.com/2019/04/11/finding-a-good-bleeding-control-kit-for-your-office-
-or-classroom/
-Bleeding Control Kits® provide the tools and information you need to act quickly to stop
+https://www.stopthebleed.org/ and [Bleeding Control Kits®](https://deepwaterhappy.com/2019/04/11/finding-a-good-bleeding-control-kit-for-your-office-or-classroom/)
+ provide the tools and information you need to act quickly to stop
 traumatic blood loss.
+
 Public Access Bleeding Control Kits are designed for use by medical professionals, first
 responders and general citizens in serious trauma emergencies. A fast response is imperative to
 "Stop the Bleed", and easy, recognizable access to the equipment aids in rapid action.
