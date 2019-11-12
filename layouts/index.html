@@ -1,0 +1,26 @@
+{{ define "header" }}
+<div class="container header-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="header-content">
+        <h1 class="header-title">
+          {{ if .Site.Params.headerTitle }}
+            {{ .Site.Params.headerTitle | safeHTML }}
+          {{ else }}
+            {{ .Site.Title | safeHTML }}
+          {{ end }}
+        </h1>
+        <div class="header-underline"></div>
+        {{ with .Site.Params.description }}
+        <p class="header-subtitle header-subtitle-homepage">{{ . | safeHTML }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+{{ define "main" }}
+<div class="container content">
+  {{ .Content }}
+</div>
+{{ end }}
