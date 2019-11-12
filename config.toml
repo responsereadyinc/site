@@ -1,6 +1,6 @@
 baseURL = "https://responsereadyinc.github.io/"
 languageCode = "en-us"
-theme = "hello-friend-ng"
+theme = "den"
 
 [languages]
   [languages.en]
