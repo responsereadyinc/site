@@ -15,6 +15,7 @@ rssLimit = 20
   logoTitle = "Response Ready"
   siteLogoImage = "img/cpr.png"
   headerImage = "img/backdrop.jpg"
+  customFavicon = "favicon.ico"
 
 [[menu.main]]
   url = "/courses/"
