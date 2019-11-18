@@ -22,11 +22,16 @@ rssLimit = 20
   weight = 1
 
 [[menu.main]]
+  url = "/targetedspecialty/"
+  name = "Targeted Specialty"
+  weight = 2
+
+[[menu.main]]
   url = "/staff/"
   name = "Staff Portfolios"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   url = "/contact/"
   name = "Contact"
-  weight = 3
+  weight = 4
