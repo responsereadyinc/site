@@ -66,9 +66,14 @@ The Heart saver CPR AED + Child + Infant course includes all of the above, and:
 
 # Heart and Stroke First Aid Course (Manitoba Workplace Approved)
 
-Standard First Aid
-Standard First Aid Recertification
-Emergency First Aid
+Standard First Aid, Standard First Aid Recertification, and Emergency First Aid.
+
+Response Ready/Intervention Rapide Inc. training meets the Canadian Standards Association (CSA),
+CSA Z1210 – First Aid training for the workplace – Curriculum and quality management for training
+agencies.
+
+https://1lifewss.com/manitoba-workplace-safety-health-regulation-amendment-harmonization-of-safety-requirements/
+
 Course content:
 
 - Emergency Scene Management
@@ -92,3 +97,5 @@ responders and general citizens in serious trauma emergencies. A fast response i
 Response Ready Inc. is your trainer and distributor of the bleeding control kits, which through
 public education will be as prevalent as public AED's, in serving a vital purpose in the
 preservation of life in the emergency bleeding scenario.
+
+
