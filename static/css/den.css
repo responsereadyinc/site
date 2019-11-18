@@ -288,8 +288,8 @@ h4:after {
   padding: 25px 0 55px 0;
 }
 .header-title {
-  font-size: 28px;
-  color: #fff;
+  font-size: 58px;
+  color: #000;
   font-weight: 700;
 }
 .header-date {
@@ -339,6 +339,11 @@ h4:after {
 .header-subtitle-homepage {
   text-shadow: -1px -1px 0 #5e83ab, 1px -1px 0 #5e83ab, -1px 1px 0 #5e83ab,
     1px 1px 0 #5e83ab;
+}
+
+.header-title {
+  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
+    1px 1px 0 #fff;
 }
 
 /* Content */
