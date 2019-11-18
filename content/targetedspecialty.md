@@ -2,6 +2,8 @@
 title: Targeted Specialty
 ---
 
+![construction worker on ground](/img/constructionworker.jpg "Construction worker on ground")
+
 # Training for Industry/Trades
 
 We offer the Manitoba Workplace approved Standard and Emergency First Aid Level C in
