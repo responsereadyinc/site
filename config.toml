@@ -8,12 +8,12 @@ rssLimit = 20
     title = "Response Ready / Intervention Rapide Inc."
 
     [languages.en.params.logo]
-      path = "/img/cpr.jpg"
+      path = "/img/cpr.png"
       alt = "Your example logo alt text"
 
 [params]
   logoTitle = "Response Ready"
-  siteLogoImage = "img/cpr.jpg"
+  siteLogoImage = "img/cpr.png"
   headerImage = "img/backdrop.jpg"
 
 [[menu.main]]
