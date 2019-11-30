@@ -292,7 +292,7 @@ h4:after {
   padding: 25px 0 55px 0;
 }
 .header-title {
-  font-size: 58px;
+  font-size: 80px;
   color: #000;
   font-weight: 700;
   font-family: 'Times New Roman', Times, serif;
@@ -342,13 +342,13 @@ h4:after {
 .translations,
 .header-tags,
 .header-subtitle-homepage {
-  text-shadow: -1px -1px 0 #5e83ab, 1px -1px 0 #5e83ab, -1px 1px 0 #5e83ab,
-    1px 1px 0 #5e83ab;
+  /* text-shadow: -1px -1px 0 #5e83ab, 1px -1px 0 #5e83ab, -1px 1px 0 #5e83ab, */
+  /* 1px 1px 0 #5e83ab; */
 }
 
 .header-title {
-  text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff,
-    1px 1px 0 #fff;
+  /* text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, */
+  /* 1px 1px 0 #fff; */
 }
 
 /* Content */
