@@ -12,7 +12,7 @@ rssLimit = 20
       alt = "Your example logo alt text"
 
 [params]
-  logoTitle = "Response Ready"
+  logoTitle = " "
   siteLogoImage = "img/cpr.png"
   headerImage = "img/backdrop.jpg"
   customFavicon = "favicon.ico"

@@ -11,6 +11,10 @@
 
 @import url('syntax.css');
 
+.header-nav .header-logo-image {
+  height: 130px;
+}
+
 /* Responsive */
 @media (min-width: 768px) {
   .container {
