@@ -77,6 +77,10 @@
   .header-nav .header-logo-image {
     display: none;
   }
+  .header-title {
+    font-size: 58px !important;
+    color: #000;
+  }
   .header-wrapper {
     padding-top: 100px;
   }
