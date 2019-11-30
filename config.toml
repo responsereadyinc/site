@@ -36,3 +36,24 @@ rssLimit = 20
   url = "/contact/"
   name = "Contact"
   weight = 4
+
+
+[[menu.sitemap]]
+  url = "/courses/"
+  name = "Courses"
+  weight = 1
+
+[[menu.sitemap]]
+  url = "/targetedspecialty/"
+  name = "Targeted Specialty"
+  weight = 2
+
+[[menu.sitemap]]
+  url = "/staff/"
+  name = "Staff Portfolios"
+  weight = 3
+
+[[menu.sitemap]]
+  url = "/contact/"
+  name = "Contact"
+  weight = 4
