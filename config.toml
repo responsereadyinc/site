@@ -5,7 +5,7 @@ rssLimit = 20
 
 [languages]
   [languages.en]
-    title = "Response Ready / Intervention Rapide Inc."
+    title = "Response Ready Inc."
 
     [languages.en.params.logo]
       path = "/img/cpr.png"
