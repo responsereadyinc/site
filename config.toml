@@ -1,4 +1,4 @@
-baseURL = "https://responsereadyinc.github.io/"
+baseURL = "https://responsereadyinc.ca/"
 languageCode = "en-us"
 theme = "den"
 rssLimit = 20
