@@ -2,15 +2,28 @@
 title: About
 ---
 
-Response Ready Inc. is a Winnipeg; Mb. based emergency training organization that provides
-quality emergency care instruction, First Aid, CPR/AED, and hemorrhage control training, in
-both English and French. We service personal, corporate, and industrial workplace settings.
-Courses offered are through the [Heart and Stroke Foundation of Canada](https://www.heartandstroke.ca).
+## "Sometimes the only thing between life and death is a well-trained citizen"
 
-Our focus is to use the foundation of Heart and Stroke Canada to tailor our programs to meet
-your personal, or organization’s needs. Founded by Steve Brglez and André Lacroix, both
-practicing Advanced Care Paramedics, Response Ready Inc. offers 24 years of combined
-knowledge and experience in order to help you become an important link in the chain of
-emergency first response.
+Response Ready Inc. is a Winnipeg, MB. based emergency training
+organization that provides quality emergency care instruction, First Aid,
+CPR/AED, and Stop the Bleed hemorrhage control training, in both English
+and French. We service personal, corporate, and industrial workplace
+settings. Courses offered are through the **[Heart and Stroke Foundation
+of Canada](https://www.heartandstroke.ca)** and **[Emergency Care &
+Safety Institute](https://www.ecsinstitute.org)**.
 
-Let Us Make You…RESPONSE READY !
+We are pleased to announce a partnership with the **[Manitoba Building
+Trades Institute](https://mbtrades.ca)**. We are so proud to be the
+exclusive training partners and we can be found on their official website.
+
+
+We are Manitoba's only **[Stop the Bleed](https://stopthebleed.org/)**
+trainer and distributor of **[CTOMS](https://ctoms.ca/)** hemorrhage
+control kits.
+
+Response Ready is also your **[Phillips Canada
+AED](https://www.philips.ca/healthcare/solutions/emergency-care-resuscitation/automated-external-defibrillators)**
+sales distributor of the vital life saving Automated External
+Defibrillators.
+
+## Let Us Make You… RESPONSE READY!
