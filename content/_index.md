@@ -27,3 +27,6 @@ sales distributor of the vital life saving Automated External
 Defibrillators.
 
 ## Let Us Make You… RESPONSE READY!
+
+Get your response ready T-shirt and hoodies today!
+{{< figure src="/img/rri-logo2.jpg" >}}
