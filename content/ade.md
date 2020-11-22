@@ -19,6 +19,8 @@ Ideal For:
 - industrial sites
 - care homes
 
+![](/img/hs1.jpg)
+
 # [Philips Heart Start FRx Defibrillator](https://philipsproductcontent.blob.core.windows.net/assets/20170523/053c3979235341e9880ea77c01563332.pdf)
 
 The Philips HeartStart FRx defibrillator features intuitive, step-by-step
@@ -39,3 +41,4 @@ Ideal for:
 - fire departments
 - dental offices
 
+![](/img/frx.jpg)
