@@ -18,7 +18,7 @@ rssLimit = 20
   customFavicon = "favicon.ico"
 
 [[menu.main]]
-  url = "/courses/"
+  url = "https://mbtrades.ca/courses-firstaid"
   name = "Courses"
   weight = 1
 
@@ -44,7 +44,7 @@ rssLimit = 20
 
 
 [[menu.sitemap]]
-  url = "/courses/"
+  url = "https://mbtrades.ca/courses-firstaid"
   name = "Courses"
   weight = 1
 

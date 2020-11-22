@@ -27,7 +27,7 @@
               <a class="nav-link" href="{{ .Permalink }}">{{ with $menuItem.Pre }}{{ . | safeHTML }}{{ end }}{{ $menuItem.Name }}</a>
             {{ else }}
               {{ if hasPrefix .URL "http" }}
-                <a class="nav-link" href="{{ .URL | safeURL }}">{{ with $menuItem.Pre }}{{ . | safeHTML }}{{ end }}{{ $menuItem.Name }}</a>
+              <a class="nav-link" href="{{ .URL | safeURL }}" target="_blank">{{ with $menuItem.Pre }}{{ . | safeHTML }}{{ end }}{{ $menuItem.Name }}</a>
               {{ else }}
                 <a class="nav-link" href="{{ .URL | absLangURL | safeURL }}">{{ with $menuItem.Pre }}{{ . | safeHTML }}{{ end }}{{ $menuItem.Name }}</a>
               {{ end }}
