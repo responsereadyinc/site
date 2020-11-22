@@ -23,13 +23,13 @@ rssLimit = 20
   weight = 1
 
 [[menu.main]]
-  url = "/ade/"
-  name = "ADE Sale"
+  url = "/targetedspecialty/"
+  name = "Targeted Specialty"
   weight = 2
 
 [[menu.main]]
-  url = "/targetedspecialty/"
-  name = "Targeted Specialty"
+  url = "/ade/"
+  name = "ADE Sale"
   weight = 3
 
 [[menu.main]]
@@ -49,13 +49,13 @@ rssLimit = 20
   weight = 1
 
 [[menu.sitemap]]
-  url = "/ade/"
-  name = "ADE Sale"
+  url = "/targetedspecialty/"
+  name = "Targeted Specialty"
   weight = 2
 
 [[menu.sitemap]]
-  url = "/targetedspecialty/"
-  name = "Targeted Specialty"
+  url = "/ade/"
+  name = "ADE Sale"
   weight = 3
 
 [[menu.sitemap]]
