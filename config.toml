@@ -29,7 +29,7 @@ rssLimit = 20
 
 [[menu.main]]
   url = "/ade/"
-  name = "ADE Sale"
+  name = "AED Sale"
   weight = 3
 
 [[menu.main]]
@@ -55,7 +55,7 @@ rssLimit = 20
 
 [[menu.sitemap]]
   url = "/ade/"
-  name = "ADE Sale"
+  name = "AED Sale"
   weight = 3
 
 [[menu.sitemap]]

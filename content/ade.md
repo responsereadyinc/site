@@ -1,5 +1,5 @@
 ---
-title: ADE Sale
+title: AED Sale
 ---
 
 # [Heart Start Onsite HS1 Defibrillator](https://philipsproductcontent.blob.core.windows.net/assets/20200325/a83aa441b65e46a2993eab890172bc15.pdf)
