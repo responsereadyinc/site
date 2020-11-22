@@ -23,8 +23,8 @@ rssLimit = 20
   weight = 1
 
 [[menu.main]]
-  url = "/targetedspecialty/"
-  name = "Targeted Specialty"
+  url = "/stopthebleed/"
+  name = "Stop the Bleed"
   weight = 2
 
 [[menu.main]]
@@ -49,8 +49,8 @@ rssLimit = 20
   weight = 1
 
 [[menu.sitemap]]
-  url = "/targetedspecialty/"
-  name = "Targeted Specialty"
+  url = "/stopthebleed/"
+  name = "Stop the Bleed "
   weight = 2
 
 [[menu.sitemap]]
