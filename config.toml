@@ -28,7 +28,7 @@ rssLimit = 20
   weight = 2
 
 [[menu.main]]
-  url = "/ade/"
+  url = "/aed/"
   name = "AED Sale"
   weight = 3
 
@@ -54,7 +54,7 @@ rssLimit = 20
   weight = 2
 
 [[menu.sitemap]]
-  url = "/ade/"
+  url = "/aed/"
   name = "AED Sale"
   weight = 3
 
