@@ -2,7 +2,7 @@
 title: Stop the Bleed
 ---
 
-![construction worker on ground](/img/constructionworker.jpg "Construction worker on ground")
+{{< embed file="/img/stop-the-bleed-poster.pdf" >}}
 
 ## Hemorrhage Control
 
