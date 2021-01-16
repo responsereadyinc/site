@@ -4,6 +4,9 @@ title: Stop the Bleed
 
 {{< embed file="/img/stop-the-bleed-poster.pdf" >}}
 
+{{< figure src="/img/bleed-control-sticker.jpg" width="300px">}}
+{{< figure src="/img/kit.jpg" width="300px">}}
+
 ## Hemorrhage Control
 
 
