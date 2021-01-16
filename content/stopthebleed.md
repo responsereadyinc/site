@@ -7,6 +7,8 @@ title: Stop the Bleed
 {{< figure src="/img/bleed-control-sticker.jpg" width="300px">}}
 {{< figure src="/img/kit.jpg" width="300px">}}
 
+![](/img/ctoms-kit.jpg)
+
 ## Hemorrhage Control
 
 
