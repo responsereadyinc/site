@@ -10,9 +10,7 @@ title: Stop the Bleed
 ## Hemorrhage Control
 
 
-**[stopthebleed.org](https://www.stopthebleed.org)** and **[Bleeding Control
-Kits®](https://deepwaterhappy.com/2019/04/11/finding-a-good-bleeding-control-kit-for-your-office-or-classroom/)**
- provide the tools and information you need to act quickly to stop
+**[stopthebleed.org](https://www.stopthebleed.org)** provides the tools and information you need to act quickly to stop
 traumatic blood loss.
 
 Public Access Bleeding Control Kits are designed for use by medical
